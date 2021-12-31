@@ -1,0 +1,6 @@
+.next 
+apiTest/
+ideas/
+node_modules/
+.env.local
+yarn.lock
